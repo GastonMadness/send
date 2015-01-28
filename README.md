@@ -1,5 +1,4 @@
 # send
-completed task
 Good day.
 My name is Ilya Borisenkov.
 It is a web application that works with the database.
